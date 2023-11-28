@@ -1,4 +1,4 @@
-name: sirius
+name: thriftysirius
 channels:
   - pytorch
   - nvidia
